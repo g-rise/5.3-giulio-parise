@@ -59,7 +59,8 @@ A partir dels requisits es dissenya un diagrama amb les següents col·leccions
 
 per satisfer a la interfície gràfica:
 
-![Imagen3PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/faeef251-ad21-496b-a6ee-a19180ce1bd6)
+![Imagen4PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/3a344bb6-2c4b-4d81-8115-1a2c899e3ff3)
+
 
 ----------------------------------
 
