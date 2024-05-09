@@ -1,0 +1,6 @@
+{
+  "_id": "ObjectId",
+  "delivery_date": "Date",
+  "delivery_person_id": "ObjectId",
+  "order_id": "ObjectId"
+}

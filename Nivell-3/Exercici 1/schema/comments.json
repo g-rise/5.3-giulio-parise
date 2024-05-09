@@ -1,0 +1,7 @@
+{
+  "_id": "ObjectId",
+  "user_id": "ObjectId",
+  "video_id": "ObjectId",
+  "text": "strind",
+  "comment_date": "date"
+}

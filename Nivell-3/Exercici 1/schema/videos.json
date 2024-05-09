@@ -1,0 +1,18 @@
+{
+  "_id": "ObjectId",
+  "user_uploader": "ObjectId",
+  "upload_date": "date",
+  "title": "string",
+  "description": "string",
+  "size": "int",
+  "video_name": "string",
+  "video_length": "string",
+  "thumbnail": "string",
+  "views": "int",
+  "likes": "int",
+  "dislikes": "int",
+  "status": "string",
+  "tags": [
+    "string"
+  ]
+}

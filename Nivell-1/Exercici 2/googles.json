@@ -1,0 +1,10 @@
+{
+  "_id": "objectId",
+  "brand": "string",
+  "frame": "string",
+  "provider_id": "objectId",
+  "price": "double",
+  "bought_by": [
+    "objectId"
+  ]
+}

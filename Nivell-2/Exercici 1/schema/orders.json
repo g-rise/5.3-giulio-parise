@@ -1,0 +1,15 @@
+{
+  "_id": "ObjectId",
+  "client_id": "ObjectId",
+  "store_id": "ObjectId",
+  "order_date": "Date",
+  "order_type": "string",
+  "order_details": [
+    {
+      "product_id": "ObjectId",
+      "quantity": "int"
+    }
+  ],
+  "total_price": "double",
+  "additional_note": "string"
+}

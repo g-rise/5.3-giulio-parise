@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "user_creator": "ObjectId",
+  "name": "string",
+  "creation_date": "date",
+  "status": "string",
+  "videos": [
+    "ObjectId"
+  ]
+}
