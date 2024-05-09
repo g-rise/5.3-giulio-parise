@@ -7,3 +7,27 @@ Creació de diferents bases de dades en MongoDB
 ##### IT ACADEMY | NODE JS | SPRINT 5
 -------------------------
 
+## NIVELL 1 - ÒPTICA
+Informatitzció de la gestió dels clients/es i vendes d'ulleres d'una òptica anomenada “Cul d'Ampolla”.
+
+A partir dels requeriments de l'òptica es genera un diagrama amb cuatre col·leccions diferents que responen tambè a l'exigència de les interfícies gràfiques proporcionades en els dos exercicis.
+Les col·leccions son les següents:
+
+| clients | shoppings | providers | googles |
+| ------ | ------ | ------ | ------ |
+
+### EXERCICI 1
+
+Interfície gràfica des del punt de vista d’un client de l'Òptica.
+![Imagen1PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/81aa3851-b7e7-42ae-a7f8-e02580d38724)
+
+La solució vé amb dues col·leccions     :arrow_forward: **clients**  :arrow_forward: **shoppings**  
+
+### EXERCICI 2
+
+Interfície gràfica des del punt de vista de les ulleres.
+![Imagen2PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/38e3e82e-ad64-4e57-b04e-73834a133ab4)
+
+
+La solució vé amb dues col·leccions    :arrow_forward: **googles**  :arrow_forward: **providers**  
+
