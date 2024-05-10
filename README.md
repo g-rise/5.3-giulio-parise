@@ -19,6 +19,7 @@ Les col·leccions son les següents:
 ### EXERCICI 1
 
 Interfície gràfica des del punt de vista d’un client de l'Òptica.
+
 ![Imagen1PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/81aa3851-b7e7-42ae-a7f8-e02580d38724)
 
 La solució vé amb dues col·leccions     :arrow_forward: **clients**  :arrow_forward: **shoppings**  
@@ -26,6 +27,7 @@ La solució vé amb dues col·leccions     :arrow_forward: **clients**  :arrow_f
 ### EXERCICI 2
 
 Interfície gràfica des del punt de vista de les ulleres.
+
 ![Imagen2PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/38e3e82e-ad64-4e57-b04e-73834a133ab4)
 
 
@@ -45,6 +47,12 @@ A partir dels requisits es dissenya un diagrama amb les següents sis col·lecci
 per satisfer a la interfície gràfica:
 
 ![Imagen3PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/faeef251-ad21-496b-a6ee-a19180ce1bd6)
+
+### :open_file_folder:  schema-validation
+
+Exemples de com creariem una col·lecció a partir de un **"schema validation"**.
+La validació d'esquemes a MongoDB és una característica que ens permet estructurar les dades en el document d'una col·lecció. Seguim un conjunt de regles i regles de validació, que garanteixen que les dades que inserim o actualitzem segueixen un esquema predefinit específic.
+L'objectiu és garantir que les dades només tinguin tipus de dades específics, camps obligatoris i expressions de validació esmentades a l'esquema predefinit.
 
 ----------------------------------
 
