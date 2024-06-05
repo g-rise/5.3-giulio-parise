@@ -1,11 +1,15 @@
 {
   "_id": "objectId",
   "name": "string",
+  "lastname": "string",
   "address": "string",
   "telephone": "string",
   "email": "string",
   "register_date": "Date",
-  "last_shoppings": [
-    "objectId"
-  ]
+  "referred_by": {
+    "client_id": "objectId",
+    "name": "string",
+    "lastname": "string"
+  }
+ 
 }

@@ -1,0 +1,33 @@
+{
+  "_id": "objectId",
+  "brand": "string",
+  "frame": "string",
+  "provider": {
+    "_id": "objectId",
+    "name": "string",
+    "address": {
+      "street": "String",
+      "number": "string | number",
+      "floor": "string | number",
+      "door": "string| number",
+      "city": "String",
+      "postal_code": "int",
+      "country": "String"
+    },
+    "telephone": "string",
+    "fax": "string",
+    "nif": "string"
+  },
+  "price": "double",
+  "bought_by": [
+    {
+      "client_id": "objectId",
+      "name": "string",
+      "lastname": "string",
+      "address": "string",
+      "telephone": "string",
+      "email": "string",
+      "register_date": "Date"
+    }
+  ]
+}
