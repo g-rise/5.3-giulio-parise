@@ -1,0 +1,15 @@
+{
+  "_id": "objectId",
+  "brand": "string",
+  "graduation": {
+    "left_lens": "double",
+    "right_lens": "double"
+  },
+  "glass_color": {
+    "left_lens": "string",
+    "right_lens": "string"
+  },
+  "frame_type": "string",
+  "frame_color": "string", 
+  "price": "double" 
+}

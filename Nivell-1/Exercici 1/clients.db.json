@@ -1,0 +1,25 @@
+{
+  "_id": "objectId",
+  "name": "string",
+  "lastname": "string",
+  "address": "string",
+  "telephone": "string",
+  "email": "string",
+  "register_date": "Date",
+  "last_shoppings": [
+    {
+      "id":"objectId",
+      "brand": "string",
+      "graduation": {
+        "left_lens": "double",
+        "right_lens": "double"
+      },
+      "glass_color": {
+        "left_lens": "string",
+        "right_lens": "string"
+      },
+      "frame_type": "string",
+      "price": "double"
+    }
+  ]
+}

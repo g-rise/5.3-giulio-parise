@@ -1,0 +1,16 @@
+{
+  "_id": "objectId",
+  "name": "string",
+  "address": {
+    "street": "string",
+    "number": "string | number",
+    "floor": "string | number",
+    "door": "string | number",
+    "city": "string",
+    "postal_code": "int",
+    "country": "string"
+  },
+  "telephone": "string",
+  "fax": "string",
+  "nif": "string"
+}
