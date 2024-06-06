@@ -44,9 +44,13 @@ A partir dels requisits es dissenya un diagrama amb les següents sis col·lecci
 | clients | orders | products | stores | deliveries | employees
 | ------ | ------ | ------ | ------ | ------ | ------ |
 
-per satisfer a la interfície gràfica:
+-----
+
+Per satisfer la següent interfície gràfica:
 
 ![Imagen3PHP](https://github.com/g-rise/5.3-giulio-parise/assets/149588413/faeef251-ad21-496b-a6ee-a19180ce1bd6)
+
+La solució vé amb una col·lecció  :arrow_forward: **store.orders.db** que engloba informacions de dues col·leccions    :arrow_forward: **stores**  :arrow_forward: **clients**
 
 ### :open_file_folder:  schema-validation
 
