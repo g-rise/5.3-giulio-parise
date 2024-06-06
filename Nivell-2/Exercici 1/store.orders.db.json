@@ -1,0 +1,28 @@
+{
+  "store": {
+    "store_id": "ObjectId"
+  },
+  "_id": "ObjectId",
+  "order_details": [
+    {
+      "product_quantity": "integer",
+      "product_name": "string",
+      "partial_price": "double"
+    }
+  ],
+  "total_price": "double",
+  "client": {
+    "client_id": "ObjectId",
+    "client_name": "string",
+    "client_lastname": "string"
+  },
+  "order_type": "delivery | pickup",
+  "deliver_in": {
+    "client_address": "string",
+    "client_postal_code": "int",
+    "client_city": "string",
+    "client_province": "string",
+    "client_telephone": "string"
+  },
+  "additional_note": "string"
+}
