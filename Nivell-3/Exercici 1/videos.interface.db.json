@@ -1,0 +1,53 @@
+{
+  "_id": "ObjectId",
+  "title": "string",
+  "times_played": "integer",
+  "status": "string",
+  "video_author": {
+    "user_id": "ObjectId",
+    "username": "string"
+  },
+  "suscribers": "integer",
+  "tags": [
+    "string"
+  ],
+  "likes": "integer",
+  "dislikes": "integer",
+  "comments": [
+    {
+      "comment_id": "ObjectId",
+      "user":{
+        "user_id": "ObjectId",
+        "username":"string"
+      },
+      "comment_date": "Datetime",
+      "comment_text": "string",
+      "comment_likes": "integer",
+      "comment_dislikes": "integer",
+      "comment_replies": [
+        {
+          "comment_id": "ObjectId",
+          "user":{
+            "user_id": "ObjectId",
+            "username":"string"
+          },
+          "comment_date": "Datetime",
+          "comment_text": "string",
+          "comment_like": "integer",
+          "comment_dislike": "integer"
+        }
+      ]
+    }
+  ],
+  "playlist": {
+    "playlist_id": "ObjectId",
+    "playlist_name": "string",
+    "playlist_videos": [  
+      {
+        "video_id": "ObjectId",
+        "video_thumbnails": "string",
+        "video_name": "string"
+      }
+    ]
+  }
+}
